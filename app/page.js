@@ -187,7 +187,7 @@ const Portfolio = () => {
           <div className="text-center">
             <div className="mb-8">
               <h1 className={`text-5xl md:text-7xl font-bold mb-6 transition-all duration-500 ${isDark ? 'text-white' : 'text-gray-900'}`}>
-                Hi, I'm <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Kaykobad</span>
+                Hi, I&apos;m <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Kaykobad</span>
               </h1>
               <div className="text-2xl md:text-3xl text-gray-600 dark:text-gray-300 mb-8 h-10">
                 <span className="text-blue-600 dark:text-blue-400">{typedText}</span>
@@ -244,7 +244,7 @@ const Portfolio = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <p className={`text-lg mb-6 leading-relaxed ${isDark ? 'text-gray-300' : 'text-gray-600'}`}>
-                I'm a passionate Software Engineering student at Shahjalal University of Science & Technology, 
+                I&apos;m a passionate Software Engineering student at Shahjalal University of Science & Technology, 
                 currently in my 3rd year with a CGPA of 3.21. My journey in tech is driven by curiosity and 
                 the desire to create impactful solutions.
               </p>
@@ -386,7 +386,7 @@ const Portfolio = () => {
                 </div>
                 <div>
                   <h3 className={`text-xl font-bold ${isDark ? 'text-white' : 'text-gray-900'}`}>Treasurer</h3>
-                  <p className={`${isDark ? 'text-gray-300' : 'text-gray-600'}`}>Narsingdi Student's Association, SUST</p>
+                  <p className={`${isDark ? 'text-gray-300' : 'text-gray-600'}`}>Narsingdi Student&apos;s Association, SUST</p>
                   <span className="text-blue-600 text-sm">July 2024 – Present</span>
                 </div>
               </div>
@@ -417,9 +417,9 @@ const Portfolio = () => {
           
           <div className="grid lg:grid-cols-2 gap-12">
             <div>
-              <h3 className={`text-2xl font-bold mb-6 ${isDark ? 'text-white' : 'text-gray-900'}`}>Let's Connect!</h3>
+              <h3 className={`text-2xl font-bold mb-6 ${isDark ? 'text-white' : 'text-gray-900'}`}>Let&apos;s Connect!</h3>
               <p className={`text-lg mb-8 leading-relaxed ${isDark ? 'text-gray-300' : 'text-gray-600'}`}>
-                I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology!
+                I&apos;m always open to discussing new opportunities, interesting projects, or just having a chat about technology!
               </p>
               
               <div className="space-y-4">
