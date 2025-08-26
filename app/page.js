@@ -245,7 +245,7 @@ const Portfolio = () => {
             <div>
               <p className={`text-lg mb-6 leading-relaxed ${isDark ? 'text-gray-300' : 'text-gray-600'}`}>
                 I&apos;m a passionate Software Engineering student at Shahjalal University of Science & Technology, 
-                currently in my 3rd year with a CGPA of 3.21. My journey in tech is driven by curiosity and 
+                currently in my 4th year with a CGPA of 3.21. My journey in tech is driven by curiosity and 
                 the desire to create impactful solutions.
               </p>
               <p className={`text-lg mb-8 leading-relaxed ${isDark ? 'text-gray-300' : 'text-gray-600'}`}>
@@ -262,7 +262,7 @@ const Portfolio = () => {
                 <div className={`p-4 rounded-lg ${isDark ? 'bg-gray-700' : 'bg-gray-100'} hover:scale-105 transition-all duration-300`}>
                   <Calendar className="text-blue-600 mb-2" size={24} />
                   <div className={`font-semibold ${isDark ? 'text-white' : 'text-gray-900'}`}>Experience</div>
-                  <div className={`text-sm ${isDark ? 'text-gray-300' : 'text-gray-600'}`}>2+ Years Coding</div>
+                  <div className={`text-sm ${isDark ? 'text-gray-300' : 'text-gray-600'}`}>3+ Years Coding</div>
                 </div>
               </div>
             </div>
